@@ -1,0 +1,127 @@
+{
+  "posts": [
+  
+    {
+      "id":1,
+      "name":"Gone Girl",
+      "price":"INR.450",
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This is a Gucci bag",
+      "like" :"85%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/rHHTR4v/lm2.jpg",
+      "img3":"https://i.ibb.co/j6bSJG5/ip6.jpg",
+      "img2": "https://i.ibb.co/TBrZP7y/35.jpg"
+      
+  },
+  {
+      "id":2,
+      "name":"ENDGAME",
+      "price":"INR.550",
+      "date" : "01/02/2021",
+      "type":"02:30 HR",
+      "description":"",
+      "like" :"95%",
+      "showtime1": "08:00 AM",
+      "showtime2": "11:00 AM",
+      "showtime3": "09:00 PM",
+      "img":"https://i.ibb.co/DbKdSvL/LM1.jpg",
+      "img3":"https://i.ibb.co/JFdn0Zv/up4.jpg",
+      "img2": "https://i.ibb.co/GFbq9mB/11.jpg"
+  },
+  {
+      "id":3,
+      "name":"Radioactive",
+      "price":"INR.500",
+      "date" : "30/06/2021",
+      "type":"02:20 HR",
+      "description":"",
+      "like" :"90%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/jvbQywc/lm8.jpg",
+      "img3":"https://i.ibb.co/jLm6yD3/up3.jpg",
+      "img2": "https://i.ibb.co/NTKqYgm/34.jpg"
+  },
+  {
+    "id":4,
+    "name":"The Courier",
+    "price":"INR.400",
+    "date" : "21/03/2021",
+    "type":"02:00 HR",
+    "description":"T",
+    "like" :"85%",
+    "showtime1": "11:50 AM",
+    "showtime2": "06:10 PM",
+    "showtime3": "10:00 PM",
+    "img":"https://i.ibb.co/Pr2xzrn/lm4.jpg",
+    "img3":"https://i.ibb.co/KqLNQ2Q/up1.jpg",
+    "img2": "https://i.ibb.co/tmKb1HH/23.jpg"
+},
+  {
+      "id":5,
+      "name":"The Tunnel",
+      "price":"INR.350",
+      "date" : "11/04/2021",
+      "type":"01:50 HR",
+      "description":"",
+      "like" :"75%",
+      "showtime1": "09:00 AM",
+      "showtime2": "07:00 PM",
+      "showtime3": "09:00 PM",
+      "img":"https://i.ibb.co/2vjgXqX/lm5.jpg",
+      "img3":"https://i.ibb.co/XYDh4N7/up2.jpg",
+      "img2": "https://i.ibb.co/8PtgHTF/36.jpg"
+  },
+  {
+      "id":6,
+      "name":"Honest Thief",
+      "price":"INR.450",
+      "date" : "23/06/2021",
+      "type":"03:00 HR",
+      "description":"",
+      "like" :"79.5%",
+      "showtime1": "08:00 AM",
+      "showtime2": "05:30 PM",
+      "showtime3": "08:40 PM",
+      "img":"https://i.ibb.co/XZkvjVz/lm6.jpg",
+      "img3":"https://i.ibb.co/DRJSfML/up5.jpg",
+      "img2": "https://i.ibb.co/71j0yCb/37.jpg"
+  },
+  {
+      "id":7,
+      "name":"NOMIS",
+      "price":"INR.400",
+      "date" : "02/07/2021",
+      "type":"02:00 HR",
+      "description":"",
+      "like" :"84%",
+      "showtime1": "10:00 AM",
+      "showtime2": "06:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/D194126/38.jpg",
+      "img3":"https://i.ibb.co/NYGXBrK/up7.jpg",
+      "img2": "https://i.ibb.co/p4LKrWB/lm3.jpg"
+  },
+  {
+      "id":8,
+      "name":"Ammonite",
+      "price":"INR.300",
+      "date" : "27/01/2021",
+      "type":"01:20 HR",
+      "description":"",
+      "like" :"70%",
+      "showtime1": "08:00 AM",
+      "showtime2": "06:00 PM",
+      "showtime3": "11:00 PM",
+      "img":"https://i.ibb.co/4PJhSDN/lm7.jpg",
+      "img3":"https://i.ibb.co/swd23SS/up8.jpg",
+      "img2": "https://i.ibb.co/BZSF8hV/tailgate-et00138770-02-07-2021-02-48-39.jpg"
+  }
+ 
+  ]
+}

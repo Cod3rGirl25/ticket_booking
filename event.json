@@ -1,0 +1,111 @@
+{
+  "posts": [
+  
+    {
+      "id":1,
+      "name":"Gucci Bag",
+      "price":4500,
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This is a Gucci bag",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/n72WsTt/event3.jpg"
+      
+  },
+  {
+      "id":2,
+      "name":"CAPONE",
+      "price":"INR.350",
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"Capone is the story of rise and fall of a gangster in Chicago.",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/3S2vpsN/event1.jpg"
+  },
+  {
+      "id":3,
+      "name":"Gucci Lady Love ",
+      "price":9000,
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This  is Gucci special seductive perfume",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/R7r3P9D/event8.jpg"
+  },
+  {
+    "id":4,
+    "name":"Heels",
+    "price":5000,
+    "date" : "23/05/2021",
+    "type":"02:00 HR",
+    "description":"These are velvet heels",
+    "like" :"73%",
+    "showtime1": "10:00 AM",
+    "showtime2": "05:00 PM",
+    "showtime3": "08:00 PM",
+    "img":"https://i.ibb.co/Xsrgczm/event2.jpg"
+},
+  {
+      "id":5,
+      "name":"Gucci Watch",
+      "price":6949,
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This  is Gucci special stone studded watch",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/KNBFLpp/event6.jpg"
+  },
+  {
+      "id":6,
+      "name":"Gucci Classic",
+      "price":4000,
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This isGucci special Classic Bag",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/JFCvTBh/event5.jpg"
+  },
+  {
+      "id":7,
+      "name":"Men's Watch",
+      "price":5000,
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This is a special mens watch",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/gwt3W8c/event4.jpg"
+  },
+  {
+      "id":8,
+      "name":"Hand Bag",
+      "price":3000,
+      "date" : "23/05/2021",
+      "type":"02:00 HR",
+      "description":"This course is a classic hand bag",
+      "like" :"73%",
+      "showtime1": "10:00 AM",
+      "showtime2": "05:00 PM",
+      "showtime3": "08:00 PM",
+      "img":"https://i.ibb.co/QkJpnCx/event7.jpg"
+  }
+ 
+  ]
+}

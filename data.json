@@ -1,0 +1,652 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "Piyali",
+      "title": "",
+      "author": "5",
+      "time": "05:00 PM",
+      "id": 2
+    },
+    {
+      "username": "Piyali",
+      "title": "",
+      "author": "5",
+      "time": "05:00 PM",
+      "id": 3
+    },
+    {
+      "username": "sd",
+      "title": "",
+      "author": "5",
+      "time": "08:00 PM",
+      "ticketid": "",
+      "id": 4
+    },
+    {
+      "username": "huhu",
+      "title": "",
+      "author": "fgg",
+      "time": "",
+      "ticketid": 6431,
+      "id": 5
+    },
+    {
+      "username": "",
+      "title": "",
+      "author": "",
+      "time": "",
+      "ticketid": "",
+      "id": 6
+    },
+    {
+      "username": "ddd",
+      "title": "",
+      "author": "dd",
+      "time": "05:00 PM",
+      "ticketid": 9939,
+      "id": 7
+    },
+    {
+      "username": "sd",
+      "title": "",
+      "author": "ss",
+      "time": "",
+      "ticketid": 6233,
+      "": "s",
+      "id": 8
+    },
+    {
+      "username": "",
+      "title": "",
+      "author": "",
+      "time": "",
+      "ticketid": "",
+      "id": 9
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "05:00 PM",
+      "ticketId": 9700,
+      "movieName": "CAPONE",
+      "id": 10
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "",
+      "ticketId": 4253,
+      "movieName": "CAPONE",
+      "id": 4253
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "2",
+      "time": "05:00 PM",
+      "ticketId": 9364,
+      "movieName": "CAPONE",
+      "id": 9364
+    },
+    {
+      "userName": "",
+      "title": "",
+      "author": "",
+      "time": "",
+      "ticketId": 3307,
+      "movieName": "CAPONE",
+      "id": 3307
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "05:00 PM",
+      "ticketId": 3135,
+      "movieName": "CAPONE",
+      "id": 3135
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "",
+      "time": "05:00 PM",
+      "ticketId": 9027,
+      "movieName": "CAPONE",
+      "id": 9027
+    },
+    {
+      "userName": "rgrger",
+      "title": "",
+      "author": "3",
+      "time": "05:00 PM",
+      "ticketId": 5995,
+      "movieName": "CAPONE",
+      "id": 5995,
+      "": "g"
+    },
+    {
+      "userName": "rgrger",
+      "title": "",
+      "author": "i want to know",
+      "time": "08:00 PM",
+      "ticketId": 6214,
+      "movieName": "CAPONE",
+      "id": 6214
+    },
+    {
+      "userName": "rgrger",
+      "title": "",
+      "author": "5",
+      "time": "",
+      "ticketId": 2916,
+      "movieName": "CAPONE",
+      "id": 2916
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "2",
+      "time": "05:00 PM",
+      "ticketId": 2603,
+      "movieName": "CAPONE",
+      "id": 2603
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "05:00 PM",
+      "ticketId": 3281,
+      "movieName": "Gucci Watch",
+      "id": 3281
+    },
+    {
+      "userName": "",
+      "title": "",
+      "author": "",
+      "time": "",
+      "ticketId": "",
+      "movieName": "Gucci Watch",
+      "id": 9365
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "",
+      "ticketId": 7571,
+      "movieName": "Gucci Watch",
+      "id": 7571
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 3300,
+      "movieName": "Gucci Watch",
+      "id": 3300
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 4188,
+      "movieName": "Gucci Lady Love ",
+      "id": 4188
+    },
+    {
+      "userName": "Piyali C",
+      "title": "07/29/2021",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 6455,
+      "movieName": "CAPONE",
+      "id": 6455
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "i want to know",
+      "time": "05:00 PM",
+      "ticketId": 9949,
+      "movieName": "CAPONE",
+      "id": 9949
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 1861,
+      "movieName": "CAPONE",
+      "id": 1861
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 6330,
+      "movieName": "Gucci Classic",
+      "id": 6330
+    },
+    {
+      "userName": "rgrger",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 153,
+      "movieName": "Gucci Classic",
+      "id": 153
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "05:00 PM",
+      "ticketId": 1506,
+      "movieName": "Gucci Classic",
+      "id": 1506
+    },
+    {
+      "userName": "Piyali",
+      "title": "",
+      "author": "2",
+      "time": "05:00 PM",
+      "ticketId": 6483,
+      "movieName": "Gucci Watch",
+      "id": 6483,
+      "img": "https://i.ibb.co/TBrZP7y/35.jpg"
+    },
+    {
+      "userName": "ewfwfwfr3",
+      "title": "",
+      "author": "33",
+      "time": "10:00 AM",
+      "ticketId": 4199,
+      "movieName": "Gucci Watch",
+      "id": 4199,
+      "img": "https://i.ibb.co/TBrZP7y/35.jpg"
+    },
+    {
+      "userName": "",
+      "title": "",
+      "author": "",
+      "time": "",
+      "ticketId": "",
+      "movieName": "Gucci Watch",
+      "id": 9950,
+      "img": "https://i.ibb.co/TBrZP7y/35.jpg"
+    },
+    {
+      "userName": "ddd",
+      "title": "ddd",
+      "author": "ddd",
+      "time": "10:00 AM",
+      "ticketId": 3111,
+      "movieName": "Gucci Watch",
+      "id": 3111,
+      "img": "https://i.ibb.co/TBrZP7y/35.jpg"
+    },
+    {
+      "userName": "AMC",
+      "title": "",
+      "author": "book 4 ",
+      "time": "10:00 AM",
+      "ticketId": 6695,
+      "movieName": "Gucci Watch",
+      "id": 6695,
+      "img": "https://i.ibb.co/TBrZP7y/35.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 6273,
+      "movieName": "Gucci Watch",
+      "id": 6273,
+      "img": "https://i.ibb.co/TBrZP7y/35.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 39,
+      "movieName": "CAPONE",
+      "id": 39,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "Piyali@frbfhbfhbhbh",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 8894,
+      "movieName": "CAPONE",
+      "id": 8894,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "Piyali@frbfhbfhbhbh",
+      "author": "5",
+      "time": "05:00 PM",
+      "ticketId": 8494,
+      "movieName": "CAPONE",
+      "id": 8494,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 6618,
+      "movieName": "CAPONE",
+      "id": 6618,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "",
+      "author": "7",
+      "time": "10:00 AM",
+      "ticketId": 5849,
+      "movieName": "CAPONE",
+      "id": 5849,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-08",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 5303,
+      "movieName": "CAPONE",
+      "id": 5303,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "",
+      "title": "",
+      "author": "",
+      "time": "",
+      "ticketId": "",
+      "movieName": "CAPONE",
+      "id": 9951,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-10",
+      "author": "3",
+      "time": "",
+      "ticketId": 4107,
+      "movieName": "CAPONE",
+      "id": 4107,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Rohan Hingorani",
+      "title": "2021-07-23",
+      "author": "2",
+      "time": "05:00 PM",
+      "ticketId": 4084,
+      "movieName": "CAPONE",
+      "id": 4084,
+      "img": "https://i.ibb.co/c6s39x5/22.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-24",
+      "author": "5",
+      "time": "05:00 PM",
+      "ticketId": 4216,
+      "movieName": "Gucci Lady Love ",
+      "id": 4216,
+      "img": "https://i.ibb.co/NTKqYgm/34.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-24",
+      "author": "5",
+      "time": "10:00 AM",
+      "ticketId": 1646,
+      "movieName": "Gucci Bag",
+      "id": 1646,
+      "img": "https://i.ibb.co/BZSF8hV/tailgate-et00138770-02-07-2021-02-48-39.jpg"
+    },
+    {
+      "userName": "Parima Pal",
+      "title": "2021-04-16",
+      "author": "4",
+      "time": "11:00 AM",
+      "ticketId": 9650,
+      "movieName": "ENDGAME",
+      "id": 9650,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Mr. Roy",
+      "title": "2021-07-17",
+      "author": "2",
+      "time": "05:00 PM",
+      "ticketId": 9931,
+      "movieName": "Radioactive",
+      "id": 9931,
+      "img": "https://i.ibb.co/jvbQywc/lm8.jpg"
+    },
+    {
+      "userName": "Piyali Chackraburtty",
+      "title": "2021-07-15",
+      "author": "2",
+      "time": "08:00 PM",
+      "ticketId": 5509,
+      "movieName": "Gone Girl",
+      "id": 5509,
+      "img": "https://i.ibb.co/rHHTR4v/lm2.jpg"
+    },
+    {
+      "userName": "RMC",
+      "title": "2021-07-21",
+      "author": "4",
+      "time": "10:00 PM",
+      "ticketId": 6300,
+      "movieName": "The Courier",
+      "id": 6300,
+      "img": "https://i.ibb.co/Pr2xzrn/lm4.jpg"
+    },
+    {
+      "userName": "KC",
+      "title": "2021-07-17",
+      "author": "4",
+      "time": "07:00 PM",
+      "ticketId": 5344,
+      "movieName": "The Tunnel",
+      "id": 5344,
+      "img": "https://i.ibb.co/2vjgXqX/lm5.jpg"
+    },
+    {
+      "userName": "tytyt",
+      "title": "2021-07-21",
+      "author": "3",
+      "time": "11:00 AM",
+      "ticketId": 4803,
+      "movieName": "ENDGAME",
+      "id": 4803,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "PIYA",
+      "title": "2021-07-13",
+      "author": "4",
+      "time": "08:00 AM",
+      "ticketId": 9080,
+      "movieName": "ENDGAME",
+      "id": 9080,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-15",
+      "author": "5",
+      "time": "08:00 AM",
+      "ticketId": 574,
+      "movieName": "ENDGAME",
+      "id": 574,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-14",
+      "author": "5",
+      "time": "08:00 AM",
+      "ticketId": 1294,
+      "movieName": "ENDGAME",
+      "id": 1294,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-15",
+      "author": "4",
+      "time": "08:00 AM",
+      "ticketId": 8958,
+      "movieName": "ENDGAME",
+      "id": 8958,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "rgrger",
+      "title": "2021-07-15",
+      "author": "3",
+      "time": "11:00 AM",
+      "ticketId": 3294,
+      "movieName": "ENDGAME",
+      "id": 3294,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "wrwr",
+      "title": "2021-08-07",
+      "author": "2",
+      "time": "11:00 AM",
+      "ticketId": 5594,
+      "movieName": "ENDGAME",
+      "id": 5594,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-07",
+      "author": "7",
+      "time": "08:00 AM",
+      "ticketId": 533,
+      "movieName": "ENDGAME",
+      "id": 533,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "eee",
+      "title": "2021-07-02",
+      "author": "3",
+      "time": "08:00 AM",
+      "ticketId": 8031,
+      "movieName": "ENDGAME",
+      "id": 8031,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-13",
+      "author": "4",
+      "time": "11:00 AM",
+      "ticketId": 5150,
+      "movieName": "ENDGAME",
+      "id": 5150,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-13",
+      "author": "5",
+      "time": "08:00 AM",
+      "ticketId": 1092,
+      "movieName": "ENDGAME",
+      "id": 1092,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-14",
+      "author": "3",
+      "time": "05:00 PM",
+      "ticketId": 187,
+      "movieName": "Radioactive",
+      "id": 187,
+      "img": "https://i.ibb.co/jvbQywc/lm8.jpg"
+    },
+    {
+      "userName": "Piyali C",
+      "title": "2021-07-07",
+      "author": "6",
+      "time": "08:00 AM",
+      "ticketId": 7223,
+      "movieName": "Honest Thief",
+      "id": 7223,
+      "img": "https://i.ibb.co/XZkvjVz/lm6.jpg"
+    },
+    {
+      "userName": "RAJA",
+      "title": "2021-07-10",
+      "author": "2",
+      "time": "10:00 AM",
+      "ticketId": 6770,
+      "movieName": "Radioactive",
+      "id": 6770,
+      "img": "https://i.ibb.co/jvbQywc/lm8.jpg"
+    },
+    {
+      "userName": "Piyali",
+      "title": "2021-07-10",
+      "author": "3",
+      "time": "11:00 AM",
+      "ticketId": 5966,
+      "movieName": "ENDGAME",
+      "id": 5966,
+      "img": "https://i.ibb.co/DbKdSvL/LM1.jpg"
+    },
+    {
+      "userName": "Krishna Chackraburtty",
+      "title": "2021-07-17",
+      "author": "4",
+      "time": "05:00 PM",
+      "ticketId": 6477,
+      "movieName": "Radioactive",
+      "id": 6477,
+      "img": "https://i.ibb.co/jvbQywc/lm8.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
