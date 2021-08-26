@@ -37,7 +37,7 @@ class TicketBooking  extends Component{
         this.state.movieName=this.props.location.state.data.props.data.name;
        e.preventDefault()
        console.log(this.state)
-       Axios.post('http://localhost:5000/posts',this.state)
+       Axios.post('https://testjsonapi2.herokuapp.com/posts',this.state)
        .then(response =>{
            console.log(response)
 

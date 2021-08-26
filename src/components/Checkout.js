@@ -18,7 +18,9 @@ export default class Details extends React.Component{
         console.log("id fromcake details api" , this.props.match.params.ticketid)
         axios({
             method:'get',
-            url:"http://localhost:5000/posts/"+this.props.match.params.ticketid
+            //url:"http://localhost:5000/posts/"+this.props.match.params.ticketid
+            url:"https://testjsonapi2.herokuapp.com/posts/"+this.props.match.params.ticketid
+
         }).then((response)=>{
             console.log("response from ticket details api" , response.data)
             this.setState({

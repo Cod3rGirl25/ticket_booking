@@ -15,7 +15,7 @@ export default function RecomendedMovies(){
 			//	setPosts(data) // new
 			//})
             axios.get(
-                'http://localhost:6700/posts'
+                'https://json-movie-dtls.herokuapp.com/posts'
               ).then(res =>{
                   console.log(res)
                   setPosts(res.data);
